@@ -45,14 +45,6 @@ if (blind.toLowerCase() === "yes" || blind.toLowerCase() === "y") {
   );
 }
 
-// let blind = prompt("Am i blind?");
-// if (blind.toLowerCase() === "yes" || blind.toLowerCase() === "y") {
-//   userPoints++;
-//   alert("Correct" + userPoints + "/6");
-// } else {
-//   alert("Wrong " + userPoints + "/6");
-// }
-
 let siblings = prompt("Do I have seven siblings? (Please answer either yes/no or y/n");
 if (siblings.toLowerCase() === "yes" || siblings.toLowerCase() === "y") {
   // console.log("Correct! Christmas is a very expensive event for me")
